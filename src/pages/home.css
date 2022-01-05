@@ -1,0 +1,14 @@
+.container {
+    margin-top: 3rem;
+    padding: 0 2rem;
+  }
+  .adminWrapper {
+    display: flex;
+  }
+  .side {
+    flex: 1;
+  }
+  .main {
+    flex: 5;
+  }
+  
